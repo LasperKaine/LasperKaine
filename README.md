@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Kasper Laine 👋</h1>
 <p align="center"><b>Software developer from Helsinki, Finland</b></p>
-<p align="center">Motivated web developer with practical full-stack web experience (React, Node.js, WordPress, and more). Open to real-world projects and team growth!</p>
+<p align="center">Motivated web / software developer with practical full-stack web experience (React, Node.js, WordPress, and more). Open to real-world projects and team growth!</p>
 
 ---
 
