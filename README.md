@@ -5,7 +5,6 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/LasperKaine">GitHub</a> ·
   <a href="https://linkedin.com/in/kasper-laine-4a131231">LinkedIn</a> ·
   <a href="https://kasper-laine-portfolio.vercel.app/">Portfolio</a> ·
   <a href="mailto:kasperlaine05@gmail.com">Email</a>
