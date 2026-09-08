@@ -15,7 +15,7 @@
 
 ### 🚧 Currently Working On
 
-- 🎓 Studying Software Production / ICT
+- 🎓 Studying Software Development / ICT
 - 🤖 Building a personal AI assistant with voice interaction, automation, and other features
 - 🎮 Developing a game with a small team
 - 💻 Working on a few personal projects
