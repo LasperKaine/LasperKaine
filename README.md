@@ -13,6 +13,15 @@
 
 ---
 
+### 🚧 Currently
+
+- 🎓 Studying Software Production / ICT
+- 🤖 Building a personal AI assistant with voice interaction, automation, and other features
+- 🎮 Developing a game with a small team
+- 💻 Working on a few personal projects
+- 🧪 Experimenting with different technologies and ideas
+- 🛠️ Building random projects to learn and try new things
+
 ### 🛠 Tech Stack
 
 **Frontend:**  
