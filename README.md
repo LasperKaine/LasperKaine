@@ -1,4 +1,4 @@
-<h1 align="center">Yo! 👋</h1>
+<h1 align="center">Yo! I'm MW 👋</h1>
 <p align="center"><b>Web / Software Developer from Helsinki, Finland</b></p>
 <p align="center">Motivated web / software developer with practical full-stack web experience (React, Node.js, WordPress, and more). Open to real-world projects and team growth!</p>
 
