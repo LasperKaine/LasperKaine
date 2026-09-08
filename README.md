@@ -13,7 +13,7 @@
 
 ---
 
-### 🚧 Currently
+### 🚧 Currently Working On
 
 - 🎓 Studying Software Production / ICT
 - 🤖 Building a personal AI assistant with voice interaction, automation, and other features
