@@ -70,14 +70,10 @@
 
   <br>
 
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=MWxzy" alt="GitHub Streak" />
-  </a>
+  <img src="./profile/streak.svg" alt="GitHub Streak" />
 
   <br>
   <br>
 
-  <a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=MWxzy&color=blue" alt="Profile Views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=MWxzy&color=blue" alt="Profile Views" />
 </div>
