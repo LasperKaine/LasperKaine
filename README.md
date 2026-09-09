@@ -74,6 +74,6 @@
   <br>
   <br>
   <a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=LasperKaine&color=blue" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=MWxzy&color=blue" alt="Profile Views" />
   </a>
 </div>
