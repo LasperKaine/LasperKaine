@@ -70,7 +70,9 @@
 
   <br>
 
-  <img src="./profile/streak.svg" alt="GitHub Streak" />
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com/?user=MWxzy&theme=tokyonight" alt="GitHub Streak" />
+</a>
 
   <br>
   <br>
