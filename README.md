@@ -66,16 +66,10 @@
 ---
 
 <div align="center">
-  <h2>Statistics</h2>
-
-  <br>
-
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com/?user=MWxzy&theme=tokyonight" alt="GitHub Streak" />
-</a>
-
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=MWxzy" alt="GitHub Streak" />
+  </a>
   <br>
   <br>
-
   <img src="https://komarev.com/ghpvc/?username=MWxzy&color=blue" alt="Profile Views" />
 </div>
