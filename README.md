@@ -68,9 +68,10 @@
 <div align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=MWxzy" alt="GitHub Streak" />
-    [![GitHub Streak](https://streak-stats.demolab.com?user=MWxzy&v=2)](https://github.com/DenverCoder1/github-readme-streak-stats)
   </a>
+
   <br>
   <br>
+
   <img src="https://komarev.com/ghpvc/?username=MWxzy&color=blue" alt="Profile Views" />
 </div>
