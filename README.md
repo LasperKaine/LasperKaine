@@ -69,7 +69,6 @@
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=MWxzy" alt="GitHub Streak" />
   </a>
-[![GitHub Streak](https://streak-stats.demolab.com/?MWxzy=DenverCoder1)](https://git.io/streak-stats)
   <br>
   <br>
 
