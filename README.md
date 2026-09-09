@@ -66,14 +66,19 @@
 ---
 
 <div align="center">
-  <h2>Statistics</h2>
-  <br>
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=MWxzy&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-  </a>
-  <br>
-  <br>
-  <a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=MWxzy&color=blue" alt="Profile Views" />
-  </a>
+  <h2>📊 Statistics</h2>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=MWxzy&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+
+  <br><br>
+
+  <img src="https://github-readme-streak-stats.demolab.com?user=MWxzy&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+
+  <br><br>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MWxzy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+  <br><br>
+
+  <img src="https://komarev.com/ghpvc/?username=MWxzy&color=blue" alt="Profile Views" />
 </div>
